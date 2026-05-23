@@ -1,5 +1,6 @@
-# Programa: Clasificación de compromiso de sesiones
-# Autor: Andrés
+# Problema 1: Clasificación de compromiso de sesiones
+# Autor:JOHAN PRADA
+# Programa: fundamentso de programacion
 # Descripción: Evalúa el nivel de compromiso de clientes según duración y clics
 
 # -------------------------------
